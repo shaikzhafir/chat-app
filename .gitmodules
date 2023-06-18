@@ -1,0 +1,3 @@
+[submodule "chat-client"]
+	path = chat-client
+	url = git@github.com:shaikzhafir/chat-client.git
